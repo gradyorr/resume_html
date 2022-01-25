@@ -1,0 +1,39 @@
+html {
+    font-size: 18px;
+    font-family: "myFont", "Noto", sans-serif;
+    padding-block-end: 0px;
+    padding-block-start: 0px;
+  }
+
+h1 {
+    font-size: 40px;
+}
+
+.section {
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+h3 {
+    font-size: 23px;
+}
+
+.date {
+    font-size: 16px;
+    color: #757575;
+    font-weight: lighter;
+}
+  
+.highlight1-text {
+    color: #6A2C3E;
+    font-weight: bold;
+}
+
+.highlight2-text {
+    color: #CF4520;
+    font-weight: bold;
+}
